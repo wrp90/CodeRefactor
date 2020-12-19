@@ -4,7 +4,7 @@
 
 ## Title added. 
 ## Proper header elements have been added along with <nav>, <figure>. <article>, and <footer> elements to replace <div> elements. 
-## Added id= "search-engine-optimization" to first <articl> section to make the coorisponding link work properly.
+## Added id= "search-engine-optimization" to first <article> section to make the coorisponding link work properly.
 ## Alt attribues added to images.
-## 
+## Cleaned up CSS file by adding like elements
 
